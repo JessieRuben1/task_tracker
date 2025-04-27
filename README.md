@@ -32,14 +32,15 @@ This project uses a JSON file for persistent storage, ensuring your tasks are sa
    git clone https://github.com/JessieRuben1/task_tracker.git
    cd task_tracker
 
-Usage
+# Usage
 Run the script using Python, followed by the desired command and arguments.
 
-Adding a Task
-bash
+## Adding a Task
+```bash
 python task_cli.py add "Buy groceries"
-Updating a Task
-bash
+
+## Updating a Task
+```bash
 python task_cli.py update 1 "Buy groceries and cook dinner"
 Deleting a Task
 bash
@@ -62,7 +63,7 @@ If you encounter "Task not found," ensure the ID you specified exists.
 
 If the script doesn’t run, confirm Python is correctly installed and added to your system’s PATH.
 
-Roadmap
+# Roadmap
 Planned features for future updates:
 
 Enhanced task search functionality.
@@ -71,11 +72,13 @@ Sorting tasks by creation or update date.
 
 Support for priority levels (e.g., high, medium, low).
 
-License
+# License
 This project is licensed under the MIT License.
 
-Contribution
+# Contribution
 Feel free to fork the repository and make a pull request for any improvements or additional features you’d like to contribute!
 
+# URL
+https://github.com/JessieRuben1/task_tracker/edit/main/README.md
 Author
 Developed by Jessie Ruben. 😊
