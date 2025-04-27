@@ -44,8 +44,8 @@ python task_cli.py add "Buy groceries"`
 python task_cli.py update 1 "Buy groceries and cook dinner"`
 
 **Deleting a Task:**
-bash
-python task_cli.py delete 1
+`bash
+python task_cli.py delete 1`
 
 **Marking a Task as In Progress or Done:**
 `bash
@@ -58,9 +58,9 @@ List all tasks
 python task_cli.py list`
 
 **List tasks by status:**
-python task_cli.py list done
+`python task_cli.py list done
 python task_cli.py list todo
-python task_cli.py list in-progress
+python task_cli.py list in-progress`
 
 # Handling Errors
 If you encounter "Task not found," ensure the ID you specified exists.
