@@ -35,41 +35,42 @@ This project uses a JSON file for persistent storage, ensuring your tasks are sa
 # Usage
 Run the script using Python, followed by the desired command and arguments.
 
-## Adding a Task
-```bash
-python task_cli.py add "Buy groceries"
+**Adding a Task:**
+`bash
+python task_cli.py add "Buy groceries"`
 
-## Updating a Task
-```bash
-python task_cli.py update 1 "Buy groceries and cook dinner"
-Deleting a Task
+**Updating a Task:**
+`bash
+python task_cli.py update 1 "Buy groceries and cook dinner"`
+
+**Deleting a Task:**
 bash
 python task_cli.py delete 1
-Marking a Task as In Progress or Done
-bash
-python task_cli.py mark-in-progress 1
-python task_cli.py mark-done 1
-Listing Tasks
-bash
-# List all tasks
-python task_cli.py list
 
-# List tasks by status
+**Marking a Task as In Progress or Done:**
+`bash
+python task_cli.py mark-in-progress 1
+python task_cli.py mark-done 1`
+
+## Listing Tasks
+`bash
+List all tasks
+python task_cli.py list`
+
+**List tasks by status:**
 python task_cli.py list done
 python task_cli.py list todo
 python task_cli.py list in-progress
-Handling Errors
+
+# Handling Errors
 If you encounter "Task not found," ensure the ID you specified exists.
 
 If the script doesn’t run, confirm Python is correctly installed and added to your system’s PATH.
 
 # Roadmap
 Planned features for future updates:
-
 Enhanced task search functionality.
-
 Sorting tasks by creation or update date.
-
 Support for priority levels (e.g., high, medium, low).
 
 # License
@@ -80,5 +81,6 @@ Feel free to fork the repository and make a pull request for any improvements or
 
 # URL
 https://github.com/JessieRuben1/task_tracker/edit/main/README.md
-Author
+
+# Author
 Developed by Jessie Ruben. 😊
