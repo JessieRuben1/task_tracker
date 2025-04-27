@@ -19,5 +19,12 @@
         "status": "incomplete",
         "createdAt": "2025-04-27T20:51:52.984617",
         "updatedAt": "2025-04-27T20:54:35.193942"
+    },
+    {
+        "id": 4,
+        "description": "Buy groceries",
+        "status": "incomplete",
+        "createdAt": "2025-04-27T21:14:25.887163",
+        "updatedAt": "2025-04-27T21:14:25.887163"
     }
 ]
