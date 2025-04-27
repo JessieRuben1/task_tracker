@@ -80,7 +80,7 @@ This project is licensed under the MIT License.
 Feel free to fork the repository and make a pull request for any improvements or additional features you’d like to contribute!
 
 # URL
-https://github.com/JessieRuben1/task_tracker/edit/main/README.md
+[https://github.com/JessieRuben1/task_tracker/edit/main/README.md](https://roadmap.sh/projects/task-tracker)
 
 # Author
 Developed by Jessie Ruben. 😊
