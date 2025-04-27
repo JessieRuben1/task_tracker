@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "description": "Buy shoes",
+        "status": "incomplete",
+        "createdAt": "2025-04-27T19:00:00Z",
+        "updatedAt": "2025-04-27T19:00:00Z"
+    },
+    {
+        "id": 2,
+        "description": "Buy car",
+        "status": "incomplete",
+        "createdAt": "2025-04-27T20:51:29.224649",
+        "updatedAt": "2025-04-27T20:51:29.225035"
+    },
+    {
+        "id": 3,
+        "description": "do pushups",
+        "status": "incomplete",
+        "createdAt": "2025-04-27T20:51:52.984617",
+        "updatedAt": "2025-04-27T20:54:35.193942"
+    }
+]
